@@ -8,4 +8,4 @@ Tired of looking up the best prices for the things you want to buy online all ov
 
 Simply search, add and checkout your items and let us handle the rest for you!
 
-https://github.com/groceryhack/main
+groceryhack.github.io
